@@ -154,6 +154,7 @@ void callback(char* topic, byte* payload, unsigned int length) {
 
     if(strcmp(data[0], "refresh") == 0) {
       returnDataHistoric();
+      accTimeOn = 0.0;
     }
 
     /*Liberando a matriz alocada dinamicamente.*/
