@@ -37,6 +37,11 @@ Código da placa Node MCU ESP8266 utilizada para a resolução do problema 2 do 
 
 ------------
 
+## 📁 Contribuições ##
+A maior parte das contribuições foram feitas pela conta de João Erick Barbosa, porém o desenvolvimento foi feito de maneira conjunta em videoconferências.
+Dessa forma, as contribuições foram realizadas de forma igualitária entre os colaboradores.
+
+------------
 
 ## 📌 Autores ##
 - Allan Capistrano: [Github](https://github.com/AllanCapistrano) - [Linkedin](https://www.linkedin.com/in/allancapistrano/) - [E-mail](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=asantos@ecomp.uefs.br)
