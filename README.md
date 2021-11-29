@@ -15,7 +15,7 @@
 ------------
 
 ## 📚 Descrição ##
-Código da placa Node MCU ESP8266 utilizada para a resolução do problema 2 do MI - Sistemas Digitais (TEC 499).
+Código da placa Node MCU ESP8266 utilizada para a resolução do problema 2 do MI - Sistemas Digitais (TEC 499) - [Universidade Estadual de Feira de Santana (UEFS)](https://www.uefs.br/).
 
 [Aplicação Web](https://github.com/AllanCapistrano/SD-PBL2-Web/tree/main)
 
